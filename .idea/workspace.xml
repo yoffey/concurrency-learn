@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8eb27b30-30e0-459f-96b9-c93e1fb02458" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yoffey/concurrency/chapter4/DaemonThread.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yoffey/concurrency/chapter4/DaemonThread2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yoffey/concurrency/chapter4/ThreadSimpleApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yoffey/concurrency/chapter4/ThreadSimpleApi2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yoffey/concurrency/chapter5/GatherDataByJoin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yoffey/concurrency/chapter5/ThreadJoin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/yoffey/concurrency/chapter5/ThreadJoin2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yoffey/concurrency/chapter1/TemplateMethod$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yoffey/concurrency/chapter1/TemplateMethod$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yoffey/concurrency/chapter1/TemplateMethod.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yoffey/concurrency/chapter1/TryConcurrency$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yoffey/concurrency/chapter1/TryConcurrency$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yoffey/concurrency/chapter1/TryConcurrency.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yoffey/concurrency/chapter2/tax/CaculateStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yoffey/concurrency/chapter2/tax/SimpleCaculaterStrategy.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yoffey/concurrency/chapter2/tax/TaxCaculateMain$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yoffey/concurrency/chapter2/tax/TaxCaculateMain.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yoffey/concurrency/chapter2/tax/TaxCaculator.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yoffey/concurrency/chapter2/ticket/Bank2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yoffey/concurrency/chapter2/ticket/TicketWindow.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/yoffey/concurrency/chapter2/ticket/TicketWindowRunnable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="8eb27b30-30e0-459f-96b9-c93e1fb02458" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,34 +10,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="1749011242">
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="12" />
-          <entry key="XML" value="3" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="2736" />
-          <entry key="VTL" value="12" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="7" />
-          <entry key="project.open.time.5" value="2" />
-          <entry key="project.open.time.6" value="2" />
-          <entry key="project.open.time.7" value="1" />
-          <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="6" />
-        </counts>
-      </usages-collector>
-    </session>
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -109,24 +59,17 @@
       </list>
     </option>
   </component>
-  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsFlowSettings">
     <service-enabled>true</service-enabled>
     <exe-path />
     <other-services-enabled>true</other-services-enabled>
     <auto-save>true</auto-save>
   </component>
-  <component name="JsGulpfileManager">
-    <detection-done>true</detection-done>
-    <sorting>DEFINITION_ORDER</sorting>
-  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="$PROJECT_DIR$/../../myRepository" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../../../tools/apache-maven-3.5.4" />
-        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../tools/apache-maven-3.5.4/conf/settings.xml" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../tools/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../../tools/apache-maven-3.6.0/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -151,11 +94,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1920" />
-    <option name="y" value="101" />
-    <option name="width" value="1920" />
-    <option name="height" value="993" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1280" />
+    <option name="height" value="712" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -163,7 +105,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -190,18 +131,11 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="concurrency-learn" type="b2602c69:ProjectViewProjectNode" />
-              <item name="concurrency-learn" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="concurrency" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -216,7 +150,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -331,17 +265,17 @@
       <workItem from="1552358423263" duration="246000" />
       <workItem from="1552358706327" duration="140000" />
       <workItem from="1552358873472" duration="9042000" />
+      <workItem from="1552922988249" duration="23000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18502000" />
+    <option name="totallyTimeSpent" value="18525000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-1920" y="101" width="1920" height="1057" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1280" height="712" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1964668" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19951534" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="JRebel" order="2" side_tool="true" />
       <window_info id="Image Layers" order="3" />
@@ -378,9 +312,6 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="新增chapter3" />
